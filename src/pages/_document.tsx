@@ -7,7 +7,7 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
-        <script src="https://cdn.jsdelivr.net/gh/heygogu/hf-chatbot@latest/chatbot.js?hfkey=95924599459" />
+        <script src='./chatbot.js?hfkey=7268762856826'></script>
       </body>
     </Html>
   )
