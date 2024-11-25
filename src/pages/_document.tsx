@@ -7,6 +7,7 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <script src="https://cdn.jsdelivr.net/gh/heygogu/hf-chatbot@main/minifiedchatbot.js" />
       </body>
     </Html>
   )
